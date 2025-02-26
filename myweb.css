@@ -1,0 +1,237 @@
+.works,
+.certi {
+    text-align: center;
+    font-family: "Sacramento", cursive;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    color: #3e4a61;
+    font-size: 3rem;
+    margin: 50px auto 50px auto;
+}
+
+.title-name {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 3rem;
+    font-variation-settings:
+        "wdth" 100;
+    color: #EB5A3C;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+.title-para {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    text-align: center;
+    font-size: 1.7rem;
+    color: #dc863f;
+}
+
+#mypic {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.svgg {
+    display: flex;
+    justify-content: center;
+}
+
+#certi1 {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 470px;
+    float: left;
+}
+
+.ct {
+    padding-top: 180px;
+    padding-bottom: 180px;
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 80;
+}
+
+#certi2 {
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 450px;
+    width: 470px;
+    float: right;
+}
+
+#certi3 {
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 450px;
+    width: 470px;
+    float: left;
+}
+
+#ct2 {
+    padding-left: 100px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    padding-bottom: 15px;
+}
+
+.ac {
+    text-decoration: none;
+    color: white;
+    font-size: 1.7rem;
+}
+
+.title-para1 {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    text-align: center;
+    font-size: 3rem;
+    color: #dc863f;
+    padding-top: 30px;
+}
+
+@media(max-width: 480px) {
+    #certi1 {
+        float: none;
+        margin: 0px;
+        height: 280px;
+        width: 300px;
+    }
+    .mcerti1{
+        display: flex;
+        justify-content: center;
+    }
+    #certi2 {
+        float: none;
+        margin: 0px;
+        height: 280px;
+        width: 300px;
+    }
+
+    #certi3 {
+        float: none;
+        margin: 0px;
+        height: 280px;
+        width: 300px;
+    }
+
+    .ct{
+        padding-top: 1rem;
+        padding-bottom: 0rem;
+        font-family: "Sour Gummy", serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-variation-settings:
+            "wdth" 80;
+            text-align: center;
+            font-size: 1rem;
+    }
+
+    #ct2 {
+        padding-left:0px;
+        padding-bottom: 0.2rem;
+        text-align: center;
+        font-size: 1rem;
+    }
+    #ct1 {
+        padding-left:0px;
+        padding-bottom: 0.2rem;
+        text-align: center;
+        font-size: 1rem;
+    }
+    #ct3 {
+        padding-left:0px;
+        padding-bottom: 0rem;
+        text-align: center;
+        font-size: 1rem;
+    }
+    .title-name {
+        font-family: "Sour Gummy", serif;
+        font-optical-sizing: auto;
+        font-weight: bolder;
+        font-style: normal;
+        font-size: 2rem;
+        font-variation-settings:
+            "wdth" 100;
+        color: #EB5A3C;
+        text-align: center;
+        padding-top: 1rem;
+    }
+    .works,.certi {
+    text-align: center;
+    font-family: "Sacramento", cursive;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    color: #3e4a61;
+    font-size: 1.2rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+.title-para {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    text-align: center;
+    font-size: 1.6rem;
+    color: #dc863f;
+}
+.contact {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    padding-bottom: 15px;
+}
+
+.ac {
+    text-decoration: none;
+    color: white;
+    font-size: 0.8rem;
+}
+.title-para1 {
+    font-family: "Sour Gummy", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    text-align: center;
+    font-size: 1rem;
+    color: #dc863f;
+}
+}
